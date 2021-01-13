@@ -1,5 +1,5 @@
 # SudokuSolverGame
-This is a simple Python program which generates a sudoku game you can play with the interesting feature being the back-tracking algorithm built into the game which can tell  if
+This is a simple Python program which generates a sudoku game you can play with the interesting feature being the recursive back-tracking algorithm built into the game which can tell  if
  the user places a wrong move or a successful one.
  The sudoku puzzle can also be solved automatically by pressing space on your keyboard while in-game to watch the algorithm work and sort through the puzzle until landing on a 
  successful board.
